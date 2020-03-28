@@ -2,9 +2,9 @@
 
 **欢迎你来到我们的服务器**
 
-服务器版本：Paperclip 1.15.2
+![&#x670D;&#x52A1;&#x5668;&#x72B6;&#x6001;](http://tietu.zuimc.com/server.php?hostname=NekoCraft&host=mc.ineko.cc&line=3&bc=1&srv=1)
 
-[皮肤站](https://skin.ineko.cc)\|[规定](start/rules.md)\|[联系](https://mc.ineko.cc/#connect_us)\|[常见问题](problems.md)
+[皮肤站](https://skin.ineko.cc)\|[规定](start/rules.md)\|[联系](./#connect_us)\|[常见问题](problems.md)
 
 ## 服务器地址 <a id="server_ip"></a>
 
@@ -18,7 +18,7 @@
 
 或者使用以下方式：
 
-* QQ群：606623000
+* QQ群：606623000，489681026
 * Telegram：**建设中...**
 * 服主邮箱：king@ineko.cc
 

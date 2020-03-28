@@ -7,4 +7,5 @@
 
 * [规定](start/rules.md)
 * [设置客户端](start/setup.md)
+* [服务器版本](start/servers.md)
 
