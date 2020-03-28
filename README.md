@@ -2,44 +2,6 @@
 
 **欢迎你来到我们的服务器**
 
-{% api-method method="get" host="http://ali.xhpoi.cc:8706/api" path="/status/bc" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="current\_players" type="string" required=true %}
-**念书**
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
-{% api-method-body-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-body-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-服务器在线
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
 [皮肤站](https://skin.ineko.cc)\|[规定](start/rules.md)\|[联系](./#connect_us)\|[常见问题](problems.md)
 
 ## 服务器地址 <a id="server_ip"></a>
